@@ -4,39 +4,13 @@ This repository contains my work in Microsoft Excel.
 
 **Objective**
 
-*To analyze the Host Behaviour of a property rental company towards fulfilling the customer requirements.*
-
-*The prime objective was to analyze the different metrics such as acceptance rate, response rate, instant booking, review scores, etc to draw a distinction between a Normal Host and a SuperHost.*
+- To analyze the Host Behaviour of a property rental company towards fulfilling the customer requirements.
+- The prime objective was to analyze the different metrics such as acceptance rate, response rate, instant booking, review scores, etc to draw a distinction between a Normal Host and a SuperHost.
 
 **Dataset Description**
 
 The analysis was done on the dataset of two cities in Canada i.e, Toronto and Vancouver and each city having four tables namely Hosts, Listings, Reviews and Avilaibility.
-![image](https://user-images.githubusercontent.com/108783182/190851874-cd2920a7-b5c7-466e-af68-90923d93851e.png)
-
-
-Within this file you will find the following fields:
-
-| Field         | Description |
-| ------------- | ------------- |
-| Order ID      | Product Order ID |
-| Product ID    | Unique Product ID |
-| Location ID   | Unique ID Of Location|
-| Sales         | Sales Amount |
-| Sales Person ID | Seller Unique ID|
-| Customer ID   | Unique Customer ID |
-| Purchase Date | Product Booking Date  |
-| Quantity      | Count Of Product Booked|
-| Price         | Price To Be Paid By Customer |
-| Cost          | Product Manufacturing Cost |
-| Revenue       | Total Revenue Generated |
-| Profit        | Profit Generated From Product Sale |
-| City          | Unique City Name  |
-| Sales Representative | Seller Name |
-| Customer Name | Name of the Customer |
-| Weekday       | Product Purchase Day |
-| Month         | Product Purchase Month |
-| Year          | Product Purchase Year |
-| Day           | Product Purchase Day In Numeric |
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="700" height="450" src="https://user-images.githubusercontent.com/108783182/190851874-cd2920a7-b5c7-466e-af68-90923d93851e.png" height="175px"/></a>
 
 
 **Analysis Tasks**
