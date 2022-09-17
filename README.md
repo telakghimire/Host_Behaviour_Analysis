@@ -32,7 +32,7 @@ The analysis was done on the dataset of two cities in Canada i.e, Toronto and Va
 
 ![image](https://user-images.githubusercontent.com/108783182/190852845-60529912-8a5d-4f0b-8ce1-f310c25b9716.png)
 
-**Some Insights**
+**Insights**
 - The Average Response Rate and the Average Acceptance Rate is way higher for a Super_Host (above 95 and above 85 respectively) than a Non_Super_Host and also the Listing Prices is Lower for the Super_Host which will attract lot of customers. Also,The Average Review Score for a Super_Host (mostly above 4.8) in all Category is always higher than the Non_Super_Host. Also we can see that the response time for Super_Host is within an hour in most of the cases.
 - The Average Response rate is Always above 95 for a Super_Host and below 95 for a Non_Super_Host in both the cities, and also the Average Acceptance Rate is above 85 for a Super_Host while below 85 for a Non_Super_Host. The Average Listing Price and The Average Availability Listing Price is also always Lower for a Super_Host in both the cities.
 - The number of Positive words is higher for Super_Host while it is lower for Non_Super_Host and also there is low number of negative words for a Super_Host than Non_Super_Host.
