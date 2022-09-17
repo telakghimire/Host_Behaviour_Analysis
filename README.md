@@ -8,7 +8,7 @@
 
 **Dataset Description**
 
-The analysis was done on the dataset of two cities in Canada i.e, Toronto and Vancouver and each city having four tables namely Hosts, Listings, Reviews and Avilaibility.
+The analysis was done on the dataset of two cities in Canada i.e, Toronto and Vancouver and each city having four tables namely Hosts, Listings, Reviews and Availability.
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="700" height="450" src="https://user-images.githubusercontent.com/108783182/190851874-cd2920a7-b5c7-466e-af68-90923d93851e.png" height="175px"/></a>
      
 - Host Table stores information about the different Hosts associated with the company.
