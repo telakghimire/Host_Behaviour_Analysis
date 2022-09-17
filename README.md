@@ -15,16 +15,16 @@ The analysis was done on the dataset of two cities in Canada i.e, Toronto and Va
 
 **Analysis Tasks**
 
-     Create a histogram to analyze a profit,revenue etc. for every months.
-     Prepare a table of Revenue month-wise , named it as ‘Revenue Analysis’.
-     Prepare a table of Different Aspect in one sheet,named as 'Different Analysis'.
-     Prepare a table of Quanterly Analysis.
-     Prepare the table of Top 5 Customers in term of sales and Top 3 Cities in term of sales.
-     Prepare the Daily,Weekly and Yearly Trends.
-     Create a User Control Combo box for switching between Revenue,Profit,COGS etc. analysis
-     Create a dashboard.
+     - Analyze different metrics to draw the distinction between Super Host and Other Hosts
+     - Identify top 3 crucial metrics one needs to maintain to become a Super Host and also, find their average values.
+     - Prepare a table of Different Aspect in one sheet,named as 'Different Analysis'.
+     - Analyze how does the comments of reviewers vary for listings of Super Hosts vs Other Hosts(Extract words from the comments provided by the reviewers)
+     - Analyze do Super Hosts tend to have large property types as compared to Other Hosts.
+     - Analyze the average price and availability of the listings for the upcoming year between Super Hosts and Other Hosts.
+     - Analyze the above trends for the two cities and provide insights on comparison.
+     - Create a dashboard.
        
-Note: Sample output is given, please make it a meticulous as per the project statement.
+**Dashboard Overview**
 
 ![Dashboard Preview](https://user-images.githubusercontent.com/106439762/175802769-50e30fff-1944-41ac-b3cb-513c71e1429a.jpeg)
 
