@@ -1,6 +1,5 @@
 # Host_Behaviour_Analysis
 
-This repository contains my work in Microsoft Excel.
 
 **Objective**
 
@@ -11,6 +10,11 @@ This repository contains my work in Microsoft Excel.
 
 The analysis was done on the dataset of two cities in Canada i.e, Toronto and Vancouver and each city having four tables namely Hosts, Listings, Reviews and Avilaibility.
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="700" height="450" src="https://user-images.githubusercontent.com/108783182/190851874-cd2920a7-b5c7-466e-af68-90923d93851e.png" height="175px"/></a>
+     
+- Host Table stores information about the different Hosts associated with the company.
+- Listings Table stores information about the different listings on the platform.
+- Reviews Table stores information about the reviews customers has provided to the listing so far.
+- Availability Table stores information about the future booking for the next 1 year.
 
 
 **Analysis Tasks**
@@ -26,16 +30,21 @@ The analysis was done on the dataset of two cities in Canada i.e, Toronto and Va
        
 **Dashboard Overview**
 
-![Dashboard Preview](https://user-images.githubusercontent.com/106439762/175802769-50e30fff-1944-41ac-b3cb-513c71e1429a.jpeg)
+![image](https://user-images.githubusercontent.com/108783182/190852845-60529912-8a5d-4f0b-8ce1-f310c25b9716.png)
+
+**Some Insights**
+- The Average Response Rate and the Average Acceptance Rate is way higher for a Super_Host (above 95 and above 85 respectively) than a Non_Super_Host and also the Listing Prices is Lower for the Super_Host which will attract lot of customers. Also,The Average Review Score for a Super_Host (mostly above 4.8) in all Category is always higher than the Non_Super_Host. Also we can see that the response time for Super_Host is within an hour in most of the cases.
+- The Average Response rate is Always above 95 for a Super_Host and below 95 for a Non_Super_Host in both the cities, and also the Average Acceptance Rate is above 85 for a Super_Host while below 85 for a Non_Super_Host. The Average Listing Price and The Average Availability Listing Price is also always Lower for a Super_Host in both the cities.
+- The number of Positive words is higher for Super_Host while it is lower for Non_Super_Host and also there is low number of negative words for a Super_Host than Non_Super_Host.
+- The number of Large Property_type is higher for a Non_Super_host than the Super_Host in both the States. So Super Hosts don’t tend to have large property types as compared to Other Hosts.
+- The average price for both years i.e 2022 and 2023 is higher for a Non_Super_Host with max in 2022 and also the count of availability for both years is higher for Non_Super_Host with max in 2022 in both the cities.
+- The average price for both years i.e 2022 and 2023 is higher for Non_Local_host with max in 2022 and also the count of availability for both years is higher for a Non_Local_host.
 
 
-**Prerequisites :**
-Basic Knowledge of Pivot Tables,Basic VBA,Charts and formatting in Excel
 
-**Sales Dashboard :**
-I have utilized following items in building sales dashboard which analyzes sales by different aspects.
 
-    Pivot Tables
-    Different Chart
-    Slicers 
-    VBA Basic
+
+**Techstack :**
+SQL Server , MS Excel
+
+
